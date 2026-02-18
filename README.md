@@ -4,15 +4,16 @@
 [![Status](https://img.shields.io/badge/Status-Research%20In%20Progress-orange)](https://conexus-website.vercel.app)
 [![Submission](https://img.shields.io/badge/Submission-Under%20Review-yellow)](https://conexus-website.vercel.app)
 
-> Research papers and manuscripts on the Forgetting Engine breakthrough. Working papers, manuscripts in preparation, and one paper under peer review.
+> Research papers and manuscripts on CONEXUS breakthrough technologies and computational paradigm shifts. Working papers, manuscripts in preparation, and one paper under peer review.
 
 ## 📚 Research Overview
 
-This repository contains research papers and manuscripts documenting the Forgetting Engine breakthrough. Our research spans computational optimization, artificial intelligence behavioral science, and paradigm-shifting algorithmic approaches.
+This repository contains research papers and manuscripts documenting CONEXUS breakthrough technologies and computational paradigm shifts. Our research spans computational optimization, artificial intelligence behavioral science, and next-generation algorithmic approaches.
 
 ### 🎯 Current Research Status
 
 **Papers Available:**
+
 - **Working papers:** 4 completed research papers
 - **Manuscripts in preparation:** 3 drafts in development
 - **Conference presentations:** 2 academic conference materials
@@ -24,24 +25,28 @@ This repository contains research papers and manuscripts documenting the Forgett
 ### 🟢 Working Papers (Completed Research)
 
 **1. Strategic Elimination with Paradox Retention**
+
 - **Status:** Complete working paper
 - **Focus:** Core algorithm methodology and theoretical framework
 - **Length:** 28 pages
 - **Key Findings:** 562% improvement on 3D protein folding
 
 **2. Cross-Platform Validation of Optimization Enhancement**
+
 - **Status:** Complete working paper
 - **Focus:** Validation across 6 AI platforms
 - **Length:** 22 pages
 - **Key Findings:** Universal superiority across all platforms
 
 **3. Emotional Calibration Protocol for AI Systems**
+
 - **Status:** Complete working paper
 - **Focus:** AI behavioral enhancement methodology
 - **Length:** 19 pages
 - **Key Findings:** 13.6% average improvement across platforms
 
 **4. Complexity Inversion Law in Computational Optimization**
+
 - **Status:** Complete working paper
 - **Focus:** Theoretical analysis of complexity-performance relationship
 - **Length:** 24 pages
@@ -50,16 +55,19 @@ This repository contains research papers and manuscripts documenting the Forgett
 ### 🟡 Manuscripts In Preparation
 
 **1. Pharmaceutical-Grade Validation in Computational Science**
+
 - **Status:** 60% complete
 - **Focus:** Experimental design and statistical methodology
 - **Target:** High-impact computational science journal
 
 **2. Real-World Applications of Strategic Elimination**
+
 - **Status:** 45% complete
 - **Focus:** Industry applications and case studies
 - **Target:** Applied optimization journal
 
 **3. AI Behavioral Enhancement Through Emotional Calibration**
+
 - **Status:** 35% complete
 - **Focus:** Psychological aspects of AI optimization
 - **Target:** AI and behavioral science journal
@@ -67,12 +75,14 @@ This repository contains research papers and manuscripts documenting the Forgett
 ### 🟠 Conference Presentations
 
 **1. NeurIPS 2025 Workshop Presentation**
+
 - **Title:** "Forgetting Wrong Answers: A New Paradigm in Optimization"
 - **Status:** Presented December 2025
 - **Format:** 20-minute presentation + Q&A
 - **Reception:** Strong interest from academic community
 
 **2. AAAI 2026 Conference Poster**
+
 - **Title:** "Emotional Calibration Protocol for AI Systems"
 - **Status:** Accepted for presentation
 - **Format:** Poster presentation and demo
@@ -81,6 +91,7 @@ This repository contains research papers and manuscripts documenting the Forgett
 ### 🔴 Under Peer Review
 
 **1. Top-Tier Journal Submission**
+
 - **Journal:** Nature Computational Science (under consideration)
 - **Title:** "Strategic Elimination: A Paradigm Shift in Computational Optimization"
 - **Status:** Under review since January 2026
@@ -135,12 +146,14 @@ scientific-papers/
 ## 📊 Research Impact
 
 ### Citation Metrics (Pre-Publication)
+
 - **Working paper downloads:** 1,200+ (academic platforms)
 - **Conference mentions:** 45+ citations in presentations
 - **Industry interest:** 8 companies requesting technical briefings
 - **Academic collaborations:** 3 universities proposing partnerships
 
 ### Research Community Response
+
 - **NeurIPS workshop:** Standing room only presentation
 - **AAAI acceptance:** Competitive acceptance rate (<25%)
 - **Journal interest:** 3 top-tier journals expressing interest
@@ -149,6 +162,7 @@ scientific-papers/
 ## 🔬 Research Methodology
 
 ### Experimental Design
+
 - **17,670 total trials** across 7 domains
 - **Fixed random seeds** for 100% reproducibility
 - **Cross-platform validation** on 6 AI systems
@@ -156,6 +170,7 @@ scientific-papers/
 - **Blinded analysis** to prevent bias
 
 ### Statistical Framework
+
 - **Effect sizes:** d = 1.22 to 8.92 (large to very large)
 - **Statistical significance:** p < 10⁻¹² (strongest in computational history)
 - **Power analysis:** 99.9% statistical power
@@ -164,6 +179,7 @@ scientific-papers/
 ## 🚀 Publication Strategy
 
 ### Target Journals
+
 1. **Nature Computational Science** (under review)
 2. **Science Advances** (backup option)
 3. **Journal of Machine Learning Research** (methodology focus)
@@ -171,6 +187,7 @@ scientific-papers/
 5. **Operations Research** (optimization applications)
 
 ### Conference Pipeline
+
 - **NeurIPS 2025** ✅ (presented)
 - **AAAI 2026** ✅ (accepted)
 - **ICML 2026** (planning submission)
@@ -179,12 +196,14 @@ scientific-papers/
 ## 📧 Academic Collaboration
 
 ### Current Partnerships
+
 - **University Research Labs:** 3 active collaborations
 - **Industry Research Groups:** 2 corporate partnerships
 - **Government Agencies:** 1 research grant application
 - **International Researchers:** 5 ongoing collaborations
 
 ### Collaboration Opportunities
+
 - **Reproducibility studies** with independent labs
 - **Extension research** in new domains
 - **Theoretical development** of mathematical framework
